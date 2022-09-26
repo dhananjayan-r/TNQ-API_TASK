@@ -1,13 +1,13 @@
 # TNQ-API_TASK
 Let create an API flask
 ## Table of Content
-  * [Task given](#Task given)
+  * [Requirement](#Requirement)
   * [Result](#Result)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [License](#license)
-## Task given:
+## Requirement
 - Let create an API (Django, flask, Django Rest API or fast API) which takes the inputs A and B.
 - The API will produce an output with sum, division, multiplication and subtraction of the output in a json format
 - Entire output can be stored in a database with the relevant data types
@@ -16,7 +16,7 @@ Let create an API flask
 
 ## Result
 
-<img target="_blank" src="https://github.com/dhananjayan-r/Colorizer/blob/master/Input_images/che-guevara-wallpapers-hd-best-hd-photos-1080p-6xcp2u-741x988.jpg" width=300>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ-API_TASK/blob/main/tnqflask.PNG" width=300>
 
 
 ## Technologies Used
