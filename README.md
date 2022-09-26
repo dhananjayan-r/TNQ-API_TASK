@@ -16,7 +16,7 @@ Let create an API flask
 
 ## Result
 
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ-API_TASK/blob/main/tnqflask.PNG" width=300>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ-API_TASK/blob/main/tnqflask.PNG" width=600>
 
 
 ## Technologies Used
